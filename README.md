@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  💻 Backend Developer | 🛠️ Spring Boot | 🟩🤖 Cloud Enthusiast
+  💻 Backend Developer | 🛠️ Spring Boot | ![Android Logo](https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg) Android
 </p>
 </table>
 
