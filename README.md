@@ -3,9 +3,19 @@
 
 <h3 align="center">✨ Welcome to My GitHub Profile ✨</h3>
 
+
+<p align="center">
+  <img src="https://github.com/pojun406.png" width="120" style="border-radius:50%;">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/github/followers/pojun406?style=social">
   <img src="https://img.shields.io/github/stars/pojun406?style=social">
+</p>
+
+
+<p align="center">
+  💻 Backend Developer | 🛠️ Spring Boot | ☁ Cloud Enthusiast
 </p>
 </table>
 
