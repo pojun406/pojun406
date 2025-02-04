@@ -1,12 +1,7 @@
 <table>
   <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/banner.gif" width="100%">
 
-<h3 align="center">✨ Welcome to My GitHub Profile ✨</h3>
-
-
-<p align="center">
-  <img src="https://github.com/pojun406.png" width="120" style="border-radius:50%;">
-</p>
+<h3 align="center">✨ 항상 발전하는 개발자 이병준입니다! ✨</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/pojun406?style=social">
