@@ -15,16 +15,10 @@
 </p>
 </table>
 
-  <tr>
-    <td> 
+<div style="display: flex; justify-content: center; gap: 20px;">
       <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"> 
-    </td> 
-    <td width="30">
-    </td> <!-- 간격 조정 --> 
-    <td> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript,tex"
-         </td>
-  </tr>
+</div>
 <!--
 **pojun406/pojun406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
