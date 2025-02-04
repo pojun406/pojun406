@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://your-image-url.com/avatar.png" width="150"></td>
+    <td><img src="[https://your-image-url.com/avatar.png](https://avatars.githubusercontent.com/u/58235899?v=4)" width="150"></td>
     <td>
       <h3>안녕하세요!👋</h3>
       <p>백엔드 개발자로 활동하고 있는 <b>이병준</b>입니다!</p>
