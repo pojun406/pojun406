@@ -1,4 +1,12 @@
-## Hi there 👋
+<table>
+  <tr>
+    <td><img src="https://your-image-url.com/avatar.png" width="150"></td>
+    <td>
+      <h3>안녕하세요!👋</h3>
+      <p>백엔드 개발자로 활동하고 있는 <b>이병준</b>입니다!</p>
+    </td>
+  </tr>
+</table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojun406)](https://github.com/anuraghazra/github-readme-stats)
 
