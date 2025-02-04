@@ -19,12 +19,12 @@
 </p>
 </table>
 
-<table>
+<table hide_border=true>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=transparent" alt="GitHub Stats">
     </td>
-    <td width="20"></td> <!-- 자간 조정 -->
+    <td width="40"></td> <!-- 자간 조정 -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&layout=compact&theme=transparent" alt="Most Used Languages">
     </td>
