@@ -19,6 +19,17 @@
 </p>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=light" alt="GitHub Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&layout=compact&theme=light" alt="Most Used Languages">
+    </td>
+  </tr>
+</table>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojun406)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript,tex,css)
