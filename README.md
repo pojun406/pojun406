@@ -1,11 +1,12 @@
 <table>
-  <tr>
-    <td><img src="[[https://your-image-url.com/avatar.png](https://avatars.githubusercontent.com/u/58235899?v=4)](https://github.com/account)" width="150"></td>
-    <td>
-      <h3>안녕하세요!👋</h3>
-      <p>백엔드 개발자로 활동하고 있는 <b>이병준</b>입니다!</p>
-    </td>
-  </tr>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepository/main/banner.gif" width="100%">
+
+<h3 align="center">✨ Welcome to My GitHub Profile ✨</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/pojun406?style=social">
+  <img src="https://img.shields.io/github/stars/pojun406?style=social">
+</p>
 </table>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojun406)](https://github.com/anuraghazra/github-readme-stats)
