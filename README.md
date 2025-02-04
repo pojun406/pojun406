@@ -22,9 +22,8 @@
     <td width="30">
     </td> <!-- 간격 조정 --> 
     <td> 
-[      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"> 
-](https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript
-)    </td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript"
+         </td>
   </tr>
 <!--
 **pojun406/pojun406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
