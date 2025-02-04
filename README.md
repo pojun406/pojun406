@@ -22,7 +22,7 @@
     <td width="30">
     </td> <!-- 간격 조정 --> 
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript"
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript,tex"
          </td>
   </tr>
 <!--
