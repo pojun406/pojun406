@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  💻 Backend Developer | 🛠️ Spring Boot | ☁ Cloud Enthusiast
+  💻 Backend Developer | 🛠️ Spring Boot | 🟩🤖 Cloud Enthusiast
 </p>
 </table>
 
