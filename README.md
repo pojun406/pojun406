@@ -19,7 +19,6 @@
 </p>
 </table>
 
-<table style="border-collapse: collapse; width: 100%; border:none;" border="0" data-ke-align="alignLeft">
   <tr>
     <td> 
       <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"> 
@@ -30,7 +29,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages"> 
     </td>
   </tr>
-</table>
 <!--
 **pojun406/pojun406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
