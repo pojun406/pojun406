@@ -19,7 +19,7 @@
 </p>
 </table>
 
-<table style="border-collapse: collapse; width: 100%; border:none;" border="1" data-ke-align="alignLeft">
+<table style="border-collapse: collapse; width: 100%; border:none;" border="0" data-ke-align="alignLeft">
   <tr>
     <td> 
       <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"> 
