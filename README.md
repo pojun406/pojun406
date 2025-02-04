@@ -22,17 +22,14 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=light" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=pojun406&show_icons=true&theme=transparent" alt="GitHub Stats">
     </td>
+    <td width="20"></td> <!-- 자간 조정 -->
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&layout=compact&theme=light" alt="Most Used Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&layout=compact&theme=transparent" alt="Most Used Languages">
     </td>
   </tr>
 </table>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pojun406)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pojun406&hide=html,javascript,typescript,tex,css)
 <!--
 **pojun406/pojun406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
